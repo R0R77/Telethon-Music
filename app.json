@@ -2,7 +2,7 @@
     "name": "Telethon Music Bot",
     "description": "Music allow you to stream music trought the telegram voice chat feature Based on Telethon.",
     "keywords": ["JMTHON", "JMTHON-MUSIC", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music", "telethon"],
-    "repository": "https://github.com/R0R77/Telethon-Music",
+    "repository": "https://github.com/nazemg/Telethon-Music",
   "stack": "container",
     "env": {
         "STRING_SESSION": {
